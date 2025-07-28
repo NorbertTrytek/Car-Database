@@ -1,6 +1,6 @@
 # 🚗 Car Database
 
-## 🇵🇱 Opis (Polski)
+## 🇵🇱 Opis
 
 Prosta aplikacja internetowa do zarządzania bazą danych samochodów. Projekt stworzony w celach edukacyjnych – do nauki operacji CRUD oraz integracji frontendu z backendem.
 
@@ -50,7 +50,7 @@ Car-Database/
 
 ---
 
-## 🇬🇧 Description (English)
+## EN Description
 
 A simple web application for managing a car database. Created as a learning project to practice CRUD operations and backend integration.
 
