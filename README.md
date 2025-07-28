@@ -26,7 +26,7 @@ Prosta aplikacja internetowa do zarządzania bazą danych samochodów. Projekt s
    ```
 2. Zaimportuj plik `car_database.sql` z folderu `database/` do swojej lokalnej bazy danych MySQL
 3. Skonfiguruj dane dostępowe do bazy w pliku `db.php`
-4. Uruchom aplikację przez lokalny serwer (XAMPP, MAMP, WAMP)
+4. Uruchom aplikację przez lokalny serwer (XAMPP)
 5. Wejdź na `http://localhost/Car-Database`
 
 ### 📁 Struktura projektu
